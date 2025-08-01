@@ -1,4 +1,7 @@
 function auth() {
     console.log('user');
 }
-function updateAuth() {console.log('Update');}
+
+function updateAuth() {
+    console.log('Update');
+}
