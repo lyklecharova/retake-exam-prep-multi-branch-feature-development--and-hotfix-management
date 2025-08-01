@@ -1,1 +1,2 @@
 Initial commit in main
+Critical BUG: remove auth check
